@@ -17,7 +17,7 @@ This is a simple QR Code Generator built using HTML, CSS, and JavaScript. You ca
 
 ## Live Demo
 
-[Click here to view the project](https://your-vercel-link.vercel.app)
+[Click here to view the project](https://qr-code-generator-chi-seven.vercel.app/)
 
 ## How to Use
 
